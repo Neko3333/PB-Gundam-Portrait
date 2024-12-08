@@ -1,0 +1,27 @@
+priority: 0
+colorHue: 0.5
+id: portrait
+ver: 1.3
+url: 
+includesConfigOverrides: false
+includesConfigEdits: false
+includesConfigTrees: false
+includesLibraries: false
+includesTextures: true
+includesLocalizationEdits: false
+includesLocalizations: false
+includesAssetBundles: false
+gameVersionMin: 
+gameVersionMax: 
+name: Gundam Pilot Icons
+desc: >-
+  Gives you the option for Gundam Pilot Icons from Gundam Evo
+
+
+  Github
+
+  - [url=https://github.com/Neko3333/PB-Gundam-Portrait][/url}
+
+  Source
+
+  - [url=https://archive.org/details/gundam-evo-icons.-7z][/url}
