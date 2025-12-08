@@ -1,7 +1,7 @@
 priority: 0
 colorHue: 0.5
-id: Portrait
-ver: 2.0
+id: Gundam
+ver: 0.1
 url: 
 includesConfigOverrides: false
 includesConfigEdits: false
@@ -13,5 +13,5 @@ includesLocalizations: false
 includesAssetBundles: false
 gameVersionMin: 2.0
 gameVersionMax: 
-name: Gundam Pilot Portraits
-desc: Gives you the option for Gundam Pilots
+name: Gundam Pilot Portraits 2.0
+desc: Gives you the option for Gundam Pilot Icons from Gundam Evo.
